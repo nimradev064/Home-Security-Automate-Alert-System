@@ -1,0 +1,4 @@
+opencv-python
+Pillow
+pymongo
+face_recognition
