@@ -110,6 +110,14 @@ Known Person Data is entered into the database
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/33645fbe-fa99-472d-8ae5-0fa5c017a526)
 
 
+### Source
+
+- [Jocher, G. (2020). YOLOv5 by Ultralytics (Version 7.0) [Computer software]. https://doi.org/10.5281/zenodo.3908559](https://www.datacamp.com/tutorial/face-detection-python-opencv)
+ - [Fig. 1: TraCon: A novel dataset for real-time traffic cones detection using deep learning - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-the-YOLOv5-model-which-consists-of-three-parts-i-Backbone_fig1_360834230 [accessed 24 Jun, 2023]](https://docs.python.org/3/library/tkinter.html)https://docs.python.org/3/library/tkinter.html
+ - https://aws.amazon.com/pm/ec2-amd/?gclid=Cj0KCQiAqsitBhDlARIsAGMR1RiDXjHA4OZhX5SXv1bZVfff1raoOAKigRfYJH5YpluL1v93qcOXsmUaAkf_EALw_wcB&trk=b12018fa-12e4-4dcd-9d3f-98fc71b815ec&sc_channel=ps&ef_id=Cj0KCQiAqsitBhDlARIsAGMR1RiDXjHA4OZhX5SXv1bZVfff1raoOAKigRfYJH5YpluL1v93qcOXsmUaAkf_EALw_wcB:G:s&s_kwcid=AL!4422!3!525736710126!p!!g!!aws%20web%20server!13385003189!128480858812
+ - 
+
+
 
 
 
