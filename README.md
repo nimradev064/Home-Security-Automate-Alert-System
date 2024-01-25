@@ -50,14 +50,19 @@
 
  <br>
  
-3. Detect the Face from Webcam and Checking for unauthorized or authorized person.<br>
+2. Detect the Face from Webcam and Checking for unauthorized or authorized person.<br>
 
 
    ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/ef814eb1-b288-42e1-a46f-f533016f6683)
    
 <br>
-5. For unknown person, the alert email notification is sent to the user. <br>
+
+3. For unknown person, the alert email notification is sent to the user. <br>
+
    ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/3f70f381-c27a-405a-9138-2082c2366547)
+
+<br>
+   
 #### Alert notification being sent: <br>
 Output of the notification process:  <br>
    ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/2d867712-fc99-40b1-a9b8-4733d502bfee)
