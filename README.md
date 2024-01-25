@@ -83,7 +83,7 @@ Email received result:
 <br>
 
 4. For known person :
-5.  <br>
+   <br>
 The system asks user to enter further detail of the entered person. 
 <br>
 
