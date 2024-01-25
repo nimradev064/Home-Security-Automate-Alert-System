@@ -6,7 +6,7 @@
 
 ### Built With
 
-![Python] ![OpenCV]
+![Python] 
 
 # Getting Started
 
