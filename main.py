@@ -90,7 +90,7 @@ class SecurityApp:
     def capture_image(self):
 
         # cap = cv2.VideoCapture("train_dataset_images/Elon Musk.jpg")
-        cap = cv2.VideoCapture('http://192.168.18.109:4747/video')
+        cap = cv2.VideoCapture('')
 
         ret, frame = cap.read()
         # cap.release()
