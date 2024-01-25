@@ -4,17 +4,17 @@
  <p style="font-size: 10px; font-family: 'Arial', sans-serif;"> Face detection uses computer vision to extract information from images to recognize human faces. In this project, we will learn how to create a Home Security Automation system using OpenCV Python. The input to the system will be in real-time via the webcam of the computer. The tkinter package (“Tk interface”) is the standard Python interface to the Tcl/Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, including macOS, as well as on Windows systems.Embark on a Python project that seamlessly captures webcam images through Tkinter's user-friendly GUI toolkit. The interface, adorned with intuitive buttons labeled "Known" and "Unknown," empowers users to swiftly categorize detected faces. In the event of an unfamiliar visage, the user is prompted to furnish details, enriching our MongoDB database with newfound information.</p><br>
 <p style="font-size: 10px; font-family: 'Arial', sans-serif;">For known faces, a simple click on the "Known" button ensures efficient data storage within MongoDB. However, when faced with an unknown persona, our vigilant system dynamically dispatches the captured image to the user's email, accompanied by a thoughtful alert message. This elegant integration of Tkinter's GUI prowess, MongoDB's robust data handling, and email notifications elevates the project into a seamless orchestration of user interaction, facial recognition, and efficient data management. Brace yourself for an immersive journey, navigating the intricacies of GUI-based image capture and intelligent data handling.</p><br> 
 
-### Built With
+# Built With
 
 ![Python]  ![OpenCV] 
 
 # Getting Started
 
-### Prerequisites
+# Prerequisites
 
 * Python 3.11.6
 
-### Installation  
+# Installation  
 
 #### Windows  
   
@@ -110,14 +110,14 @@ Known Person Data is entered into the database
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/33645fbe-fa99-472d-8ae5-0fa5c017a526)
 
 
-### Source
+# Source
 
 - [Jocher, G. (2020). YOLOv5 by Ultralytics (Version 7.0) [Computer software]. https://doi.org/10.5281/zenodo.3908559](https://www.datacamp.com/tutorial/face-detection-python-opencv)
  - [Fig. 1: TraCon: A novel dataset for real-time traffic cones detection using deep learning - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-the-YOLOv5-model-which-consists-of-three-parts-i-Backbone_fig1_360834230 [accessed 24 Jun, 2023]](https://docs.python.org/3/library/tkinter.html)https://docs.python.org/3/library/tkinter.html
  - https://aws.amazon.com/pm/ec2-amd/?gclid=Cj0KCQiAqsitBhDlARIsAGMR1RiDXjHA4OZhX5SXv1bZVfff1raoOAKigRfYJH5YpluL1v93qcOXsmUaAkf_EALw_wcB&trk=b12018fa-12e4-4dcd-9d3f-98fc71b815ec&sc_channel=ps&ef_id=Cj0KCQiAqsitBhDlARIsAGMR1RiDXjHA4OZhX5SXv1bZVfff1raoOAKigRfYJH5YpluL1v93qcOXsmUaAkf_EALw_wcB:G:s&s_kwcid=AL!4422!3!525736710126!p!!g!!aws%20web%20server!13385003189!128480858812
 
 
-### License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
