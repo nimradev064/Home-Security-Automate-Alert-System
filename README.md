@@ -42,7 +42,7 @@
 1. Run App.
    `python main.py`
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/eafbc237-7ed6-4c7f-896b-a88f894da4fc)
-
+ <br>
 2. Detect the Face from Webcam and Checking for unauthorized or authorized person.<br>
    ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/ef814eb1-b288-42e1-a46f-f533016f6683)
 <br>
