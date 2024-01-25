@@ -27,9 +27,9 @@ def send_email_notification(frame):
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     cv2.imwrite('capture_image/unknown_person.jpg', frame)
 
-    email_sender = 'aizaashraf3645@gmail.com'
-    email_password = 'basb qrpc sgxf pnfn'
-    email_receiver = 'mehernimra064@gmail.com'
+    email_sender = ''
+    email_password = ''
+    email_receiver = ''
     email_subject = "Security Alert"
     email_body = """ Unauthorized person has entered in your house
                                                                 

@@ -8,13 +8,13 @@ sfr.load_encoding_images("train_dataset_images/")
 
 
 # Load Camera
-cap = cv2.VideoCapture('http://192.168.18.109:4747/video')
+cap = cv2.VideoCapture(0)
 
 def send_email_notification(email_img):
 
-    email_sender = 'aizaashraf3645@gmail.com'
-    email_password = 'basb qrpc sgxf pnfn'
-    email_receiver = 'mehernimra064@gmail.com'
+    email_sender = ''
+    email_password = ''
+    email_receiver = ''
     email_subject = "Security alert"
     email_body = """ Unautherized person has entered in your house
                                                                 
