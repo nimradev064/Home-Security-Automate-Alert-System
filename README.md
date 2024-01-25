@@ -69,6 +69,7 @@
 Output of the notification process:  
 
 <br>
+
    ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/2d867712-fc99-40b1-a9b8-4733d502bfee)
 
  <br>
@@ -76,21 +77,36 @@ Output of the notification process:
 Email received result: 
 
 <br>
+
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/3ff115e6-b99d-4689-9088-d84d279e2810)
 
 <br>
 
-4. For known person : <br>
-The system asks user to enter further detail of the entered person. <br>
+4. For known person :
+5.  <br>
+The system asks user to enter further detail of the entered person. 
+<br>
+
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/0f9131d8-8356-495c-8147-6acb3f07a5c3)
+
 <br>
-Input screen for person data <br>
+Input screen for person data 
+<br>
+
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/67ebac29-a895-4857-9010-e08b4733bd9d)
+
 <br>
-Process output in the command line <br>
+Process output in the command line 
+<br>
+
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/79c3ae5d-3779-4d27-960c-033cec82304a)
+
 <br>
-Known Person Data is entered into the database <br>
+
+Known Person Data is entered into the database 
+
+<br>
+
 ![image](https://github.com/nimradev064/Home-Security-Automation/assets/157350960/33645fbe-fa99-472d-8ae5-0fa5c017a526)
 
 
